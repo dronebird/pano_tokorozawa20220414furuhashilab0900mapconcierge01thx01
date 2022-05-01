@@ -1,0 +1,29 @@
+{
+    "MAPSettingsUsername": "mapconcierge",
+    "MAPSettingsUserKey": "user_key",
+    "MAPLatitude": 35.783425,
+    "MAPLongitude": 139.45367499999998,
+    "MAPCaptureTime": "2022_04_14_13_18_39_000",
+    "MAPAltitude": 71.2,
+    "MAPCompassHeading": {
+        "TrueHeading": 158.4,
+        "MagneticHeading": 158.4
+    },
+    "MAPSequenceUUID": "2d3701a1-7637-4afe-9695-d9debac67d53",
+    "MAPOrientation": 1,
+    "MAPDeviceMake": "RICOH",
+    "MAPDeviceModel": "RICOH THETA X ",
+    "MAPMetaTags": {
+        "strings": [
+            {
+                "key": "mapillary_tools_version",
+                "value": "0.7.4"
+            },
+            {
+                "key": "mapillary_uploader_version",
+                "value": "2.0.6"
+            }
+        ]
+    },
+    "MAPPhotoUUID": "f3d5e66d-15cf-4864-a26b-b991a14c6592"
+}

@@ -1,0 +1,36 @@
+{
+    "total images": 117,
+    "upload summary": {
+        "successfully uploaded": 117,
+        "failed uploads": 0,
+        "uploaded to be finalized": 0
+    },
+    "process summary": {
+        "user_process": {
+            "failed": 0,
+            "success": 117
+        },
+        "import_meta_process": {
+            "failed": 0,
+            "success": 0
+        },
+        "geotag_process": {
+            "failed": 0,
+            "success": 117
+        },
+        "sequence_process": {
+            "failed": 0,
+            "success": 117
+        },
+        "upload_params_process": {
+            "failed": 0,
+            "success": 117
+        },
+        "mapillary_image_description": {
+            "failed": 0,
+            "success": 117
+        },
+        "duplicates": 0,
+        "processed_not_yet_uploaded": 0
+    }
+}
